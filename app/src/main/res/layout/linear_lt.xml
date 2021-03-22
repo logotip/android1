@@ -18,6 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:outlineProvider="background"
+
         app:layout_constraintVertical_bias="0.496">
 
         <TextView
