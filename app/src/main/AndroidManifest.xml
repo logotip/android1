@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
+           <!-- android:configChanges="orientation|screenSize" Команда исправит ситуацию! Но!
+           лучше избегать, поскольку пользовательские элементы не пересоздаются с использованием нужного квалификатора ресурсов-->
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
