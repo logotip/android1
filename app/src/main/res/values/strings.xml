@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FirstApp</string>
+    <string name="app_name">Калькулятор</string>
     <string name="_C">C</string>
     <string name="_procent">%</string>
     <string name="_7">7</string>
@@ -18,4 +18,5 @@
     <string name="_0">0</string>
     <string name="_point">.</string>
     <string name="_equal">=</string>
+    <string name="onStart">onStart</string>
 </resources>
